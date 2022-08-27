@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=python
